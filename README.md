@@ -2,15 +2,10 @@
 
 ## About ray-kun
 
-Ray-kun, a Junior Back-end Developer aged 26 years old living in The Netherlands. Ray-kun worked on a project in the past.
+Ray-kun, a Junior Back-end Developer from the one happy island Aruba, living in The Netherlands. Ray-kun worked on a project in the past.
 
 - [MovaniProductions](https://movaniproductions.com)
-
-Currently working on:
-
-- [Floyd's Dienstverlening](https://floydsdienstverlening.nl)
-
-Ray-kun is planning to create more projects in the future.
+- [Klezmerband Nigun](https://klezmerband-nigun.nl)
 
 ## Learning Coding
 
